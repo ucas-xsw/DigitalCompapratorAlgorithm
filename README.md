@@ -11,9 +11,7 @@ The codes for the paper "VSbR: Automatic Sizing Optimization of Digital Comparat
     ./algorithm/SCS/CDDE/cdde_main.m    -- This folder contains the demo files to solve tsingle digital comparator sizing problem by proposed CDDE algorithm.
     ./algorithm/SCS/CDDENM/CDDENM2.mlx  -- This folder contains the demo files to solve single digital comparator sizing problem by proposed CDDENM algorithm.
     ./algorithm/SCS/CDNM/nelders_favorite_1.mlx    -- This folder contains the demo files to solve single digital comparator sizing problem by proposed CDNM algorithm.
-    ./algorithm/MCS     -- This folder contains the demo files to solve multiple digital comparator sizing problem by proposed greedy algorithm.
-    ./algorithm/MCS/mcs.mlx     -- This folder contains the demo files to solve multiple digital comparator sizing problem by proposed greedy algorithm.                    
-    ./algorithm/MCS/mcs.mlx     -- This folder contains the demo files to solve multiple digital comparator sizing problem by proposed multiple comparators sizing algorithms.
+    ./algorithm/MCS     -- This folder contains the demo files to solve multiple digital comparator sizing problem by proposed greedy algorithm.                
     ./algorithm/MCS/mcs_de.mlx     -- This folder contains the demo files to solve multiple digital comparator sizing problem by proposed MCSDE algorithm.
     ./algorithm/MCS/mcs_denm.mlx     -- This folder contains the demo files to solve multiple digital comparator sizing problem by proposed MCSDENM algorithm.
     ./algorithm/MCS/mcs_nm.mlx     -- This folder contains the demo files to solve multiple digital comparator sizing problem by proposed MCSNM algorithm.
