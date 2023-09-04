@@ -20,7 +20,7 @@ The codes for the paper "VSbR: Automatic Sizing Optimization of Digital Comparat
     ./algorithm/MCS/mcs_mc.mlx     -- This folder contains the demo files to solve multiple digital comparator sizing problem by proposed MCSMC algorithm.   
     ./plot           -- This folder contains demo files to plot the figures according to the measured data..
     ./result         -- This folder contains the experiment data and figures uesed in the paper. 
-    ./sub-function   -- This folder contains sub-function files to run experiments in the paper, detailed comments are within each demo file.
+    ./sub-function   -- This folder contains sub-function files to help the main demos run algorithms in the paper, detailed comments are within each demo file.
 ```
 
 
